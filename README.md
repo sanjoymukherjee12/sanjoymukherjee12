@@ -20,17 +20,18 @@
 
 <div align="center">
 
-- 🔭 I’m currently working in **React**
-- 🌱 I’m currently learning **React Native**
-- 💬 Ask me about **React, Next, React Native, HTML, CSS, JavaScript**
-- 👨‍💻 Portfolio: [my-portfolio-sanjoy.netlify.app](https://my-portfolio-sanjoy.netlify.app/)
-- 📫 How to reach me: **sanjoymukherjee995@gmail.com**
-- ⚡ Fun fact: **SEAL TEAM Night's Watch cloaks are made from Ikea rugs**
+ 🔭 I’m currently working in **React**
+ 🌱 I’m currently learning **React Native**
+ 💬 Ask me about **React, Next, React Native, HTML, CSS, JavaScript**
+ 👨‍💻 Portfolio: [my-portfolio-sanjoy.netlify.app](https://my-portfolio-sanjoy.netlify.app/)
+ 📫 How to reach me: **sanjoymukherjee995@gmail.com**
+ ⚡ Fun fact: **SEAL TEAM Night's Watch cloaks are made from Ikea rugs**
 
 </div>
 
 ---
 
+<div align="center">
 ### 🧰 Languages and Tools
 
 <p align="left">
@@ -41,7 +42,7 @@
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
 </p>
-
+</div>
 ---
 
 ### 📊 GitHub Stats
