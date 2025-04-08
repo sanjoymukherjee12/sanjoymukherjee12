@@ -8,10 +8,7 @@
 
 <h3 align="center">A passionate Senior Frontend Engineer</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=800&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Sanjoy+Mukherjee!" />
-</div>
-
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamc5OXIzM3h4YWIyeHRseGEwMzV6eG1xZnhzYTc5OGYzd2swbzhuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" align="right" alt="coding"/>
 
 <div align="center">
 
