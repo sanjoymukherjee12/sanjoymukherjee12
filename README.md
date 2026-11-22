@@ -1,68 +1,110 @@
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanjoymukherjee12" alt="visitor badge"/>
+ <p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sanjoymukherjee12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanjoy+Mukherjee!;" />
-</h1>
+<h1 align="center">Hi 👋, I'm Sanjoy Mukherjee</h1>
 
-<h3 align="center">A passionate Senior Frontend Engineer</h3>
-
-<div align="center">
-  <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamc5OXIzM3h4YWIyeHRseGEwMzV6eG1xZnhzYTc5OGYzd2swbzhuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
-    width="300px" 
-    alt="coding" 
-  />
-</div>
-
-
-
-<div align="center">
-
- 🔭 I’m currently working in **React**
- 🌱 I’m currently learning **React Native**
- 💬 Ask me about **React, Next, React Native, HTML, CSS, JavaScript**
- 👨‍💻 Portfolio: [my-portfolio-sanjoy.netlify.app](https://my-portfolio-sanjoy.netlify.app/)
- 📫 How to reach me: **sanjoymukherjee995@gmail.com**
- ⚡ Fun fact: **SEAL TEAM Night's Watch cloaks are made from Ikea rugs**
-
-</div>
-
----
-
-<div align="center">
-### 🧰 Languages and Tools
-
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-</p>
-</div>
----
-
-### 📊 GitHub Stats
+<h3 align="center">Senior Frontend Engineer | React.js | JavaScript | TypeScript</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjoymukherjee12&show_icons=true&locale=en" alt="GitHub stats"/>
+  Building scalable, responsive, and user-friendly web applications.
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjoymukherjee12&show_icons=true&locale=en&layout=compact" alt="Top Langs"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjoymukherjee12" alt="GitHub Streak"/>
+  <a href="https://my-portfolio-sanjoy.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:sanjoymukherjee995@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/sanjoy-mukherjee-9942a7208/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-### 📫 Connect with me:
+## 👨‍💻 About Me
+
+- 💼 Senior Frontend Engineer with **5+ years of experience** in web development.
+- 🚀 Passionate about building scalable and high-performance applications.
+- ⚛️ Specialized in **React.js, JavaScript, TypeScript, and Next.js**.
+- 🛠️ Experienced in state management, API integration, and responsive UI development.
+- 🌱 Currently exploring **Artificial Intelligence, RAG, Python, and AI-powered applications**.
+- 🤝 Interested in collaborating on innovative products and challenging projects.
+- 📍 Based in India.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux" />
+</p>
+
+### UI Libraries & Styling
+<p>
+  <img src="https://skillicons.dev/icons?i=materialui,bootstrap,sass,figma" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgres,mongodb" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws" />
+</p>
+
+---
+
+## 🚀 What I Work With
+
+| Area | Technologies |
+|---|---|
+| Frontend | React.js, Next.js, JavaScript, TypeScript |
+| State Management | Redux Toolkit, Context API |
+| UI Development | Ant Design, Material UI, Tailwind CSS |
+| API Integration | REST APIs, Axios |
+| Backend | Django REST Framework, Node.js, Express.js |
+| Database | PostgreSQL, MongoDB |
+| Tools | Git, GitHub, Postman, VS Code |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjoymukherjee12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjoymukherjee12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjoymukherjee12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sanjoy-mukherjee-9942a7208/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/sanjoymukherjee12" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" />
+  </a>
+  <a href="https://my-portfolio-sanjoy.netlify.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="Portfolio" />
+  </a>
+</p>
+
+📧 **Email:** sanjoymukherjee995@gmail.com
+
+---
+
+<p align="center">
+  <i>"Great software is built with curiosity, consistency, and a passion for solving problems."</i>
 </p>
